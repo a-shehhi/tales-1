@@ -1,2 +1,2 @@
 # tales
-http://jlc2270.github.io/tales
+http://a-shehhi.github.io/tales-1
